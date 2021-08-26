@@ -31,5 +31,6 @@ public class SeleniumTest {
 		System.out.println("anthony updated new line");
 		System.out.println("anthony updated new line");
 		System.out.println("anthony updated new line");
+		System.out.println("Latest anthony updated new line");
 	}
 }
