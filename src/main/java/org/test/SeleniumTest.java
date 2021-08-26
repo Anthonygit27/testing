@@ -29,5 +29,7 @@ public class SeleniumTest {
 		extReports.flush();
 		System.out.println("Test Updated");
 		System.out.println("anthony updated new line");
+		System.out.println("anthony updated new line");
+		System.out.println("anthony updated new line");
 	}
 }
