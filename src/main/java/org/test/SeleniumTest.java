@@ -29,5 +29,6 @@ public class SeleniumTest {
 		extReports.flush();
 		System.out.println("Test Updated");
 		System.out.println("Anthony Updated");
+		System.out.println("Anthony Verified");
 	}
 }
