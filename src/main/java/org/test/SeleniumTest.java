@@ -27,5 +27,6 @@ public class SeleniumTest {
 		test.pass("Test Passed");
 		driver.quit();
 		extReports.flush();
+		System.out.println("Test Updated");
 	}
 }
