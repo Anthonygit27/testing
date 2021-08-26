@@ -28,5 +28,6 @@ public class SeleniumTest {
 		driver.quit();
 		extReports.flush();
 		System.out.println("Test Updated");
+		System.out.println("Anthony Updated");
 	}
 }
